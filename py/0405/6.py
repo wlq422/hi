@@ -15,7 +15,7 @@ while True :
         for :
             3번 찍는다
 '''
-
+#****안보고 짜보기
 while True : 
     word = input("단어를 입력하세요")
     if word == "exit":
@@ -30,7 +30,7 @@ while True :
         for i in range(3) : 
             print(word, end =' ')
         print("해당 단어 끝")
-        
+
     print("apple을 넣으면 이걸 절대 볼수 없음")
 
         
