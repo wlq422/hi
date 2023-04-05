@@ -30,6 +30,7 @@ while True :
         for i in range(3) : 
             print(word, end =' ')
         print("해당 단어 끝")
+    print("apple을 넣으면 이걸 절대 볼수 없음")
 
         
     
